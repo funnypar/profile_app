@@ -13,6 +13,7 @@ This project has been created under the 7learn course flag, Thanks.
 * ☀️ Light Theme
 * 🎨 Clean Material Design
 * ⚡ Responsive Layout
+* 🔠 I18n Support
 * 🌐 Web & Mobile Support
 
 ---
